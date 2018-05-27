@@ -1,0 +1,5 @@
+用来记录用到的外部 package 和 application 和对应的版本号
+
+requests==2.18.4
+
+beautifulsoup4==4.6.0
